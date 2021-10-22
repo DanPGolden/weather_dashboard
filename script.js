@@ -14,8 +14,8 @@ function searchCity(cityname) {
         console.log(queryURL);
         //empty divs and ids that we need to dump content into.....
         $("#current").empty();
-       var mainDate = moment().format('L');
- 
+       var mainDate = moment().format('L'); 
+    
 
         //create HTML for city information......
         var cityNameEl = $("<h2>").text(response.name);
