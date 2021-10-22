@@ -8,7 +8,7 @@ This is a weather dashboard using the OpenWeather One Call API to retrieve weath
 * The user is presented with the city name, the date, an icon representation of the weather conditions, the temperature, the humidity, the wind speed, and the UV index
 * The user is presented with a color that indicates whether the UV index conditions are favoable, moderate, or severe
 * The user is presented with a 5-day forecast that displays the date, an icon representing the weather conditions, the temperature, and the humidity
-* When the user clicks on a city from the search history they are then presented with the current and future conditions for that city
+* When the user clicks on a city from the search history they are then presented with the current and future conditions for that city 
 
 ## Example
 The following image shows the web application's appearance and functionality.
