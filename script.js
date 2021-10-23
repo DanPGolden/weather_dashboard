@@ -70,7 +70,7 @@ var queryURLUV = "https://api.openweathermap.org/data/2.5/uvi?&appid=ecc0be5fd92
         });
     });
 
-    //--------------------------------------------5 Day frocast call ---------------------------------------//
+    //--------------------------------------------5 Day forecast call ---------------------------------------//
 
     $.ajax({
         url: queryURLforcast,
